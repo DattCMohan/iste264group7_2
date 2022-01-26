@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Group 7 Project
+
+Emma Thomas, Renee Bogdany, Christian Mohan
 
 You can use the [editor on GitHub](https://github.com/emmathomas36/iste264group7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
