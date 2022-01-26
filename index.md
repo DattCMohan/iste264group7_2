@@ -1,6 +1,11 @@
 ## Group 7 Project
 
-Emma Thomas, Renee Bogdany, Christian Mohan
+### Our Team
+- **Emma Thomas** is a second year HCC Student at RIT
+- **Renee Bogdany**
+- **Christian Mohan**
+
+### Our Customer
 
 ### Design Problem
 1. Scope
@@ -15,7 +20,7 @@ Emma Thomas, Renee Bogdany, Christian Mohan
 ### How can Prototyping help?
 1. What we plan to prototype
 
-
+_Markdown Explanation:_
 
 You can use the [editor on GitHub](https://github.com/emmathomas36/iste264group7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
