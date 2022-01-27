@@ -1,7 +1,7 @@
-## Group 7 Project
+## RIT myLife Redesign
 
 ### Our Team
-- **Emma Thomas** is a second year HCC Student at RIT
+- **Emma Thomas** 
 - **Renee Bogdany**
 - **Christian Mohan**
 
