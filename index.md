@@ -1,9 +1,9 @@
 ## RIT myLife Redesign
 
 ### Our Team
-- **Emma Thomas** is a second year HCC student interested in UX design and front end development
-- **Renee Bogdany** is a second year HCC student interested in UX research and design
-- **Christian Mohan** is a second year HCC student is interested in UX research and design
+- **Emma Thomas** is a second year HCC student interested in UX design and front end development.
+- **Renee Bogdany** is a second year HCC student interested in UX research and design.
+- **Christian Mohan** is a second year HCC student is interested in UX research and design.
 
 #### Set of Covenants
 We have agreed that if a group member misses more than 3 meetings without a reasonable excuse, the other group members can choose to ask them to leave the group. If we cannot come to an agreement, we will all voice our opinions and discuss. If 2/3 members agree, that will be the decision. If 2 group members agree that the 3rd member is not pulling their weight in the group, they will get a warning before asking them to leave.
@@ -42,6 +42,9 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 4. Stakeholders can be involved in the design process by interviewing RIT students who use the myLife website (especially students who are non-technical majors) about their experiences/ideas for the website.
 5. Communication about progress and design can be handled through showing the existing application (the myLife website) and new application designs (sketches, wireframes, prototypes, etc.). We can involve RIT students in the process and understand their way of communicating by interviewing them and conducting usability tests/activities.
 
+#### RIT Administration - specifically ITS and RIT Housing, Dining, and Maintenance
+Our other main stakeholders are the RIT Administration, including ITS, because it is one of the RIT websites used to provide services to its students. It also affects RIT Housing, Dining, and Maintenance because students use the myLife website to interact with these RIT departments.
+
 ### How can Prototyping help?
 Prototyping can help because we are looking at user flow and navigation. It is easy to test a new user flow using a prototype, because we can have users and stakeholders attempt to use the prototype. If there are still usability challeges, this would illuminate them. We can quickly and easily edit the flow of information on a prototype, as opposed to coding the site first.
 
@@ -55,7 +58,7 @@ We are prototyping the new navigation flow, because that is the main usability a
 
 We cannot prototype the actual login screen, as it is done by an outside authentication source.
 
-### Images and Examples of some of the Main Design Problems
+### Images and Examples of Some of the Main Design Problems
 Below is the sequence of screens to get to the login, users should not have to click "login" twice, or be greeted with a blank page.
 ![login screen](https://emmathomas36.github.io/iste264group7/login.png)
 After clicking the first login, you get to this screen, where you must login again
