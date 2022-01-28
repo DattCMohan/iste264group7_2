@@ -14,7 +14,7 @@ Our customer would be RIT, as we are redesigning one of the sites they provide t
 ### Design Problem
 The myLife website is used for housing applications, dining meal plans, employment forms, and more. The interface is very hard to use, with the main issues being the site navigation and the overall layout. Our group will be redesigning this application to make a better user flow, and an overall more usable interface.
 
-Here are the main issues we found while navigating the app:
+Here are the main issues/pain points we found while navigating the app:
 - No global navigation, you can only get to main pages from home
 - The home button is inconsistant and unclear, some pages have one, others do not
 - Entire header takes you home, which is unclear at first, and creates room for accidental errors and clicks
@@ -27,7 +27,7 @@ Here are the main issues with the Layout:
 - There is lots of open space, items could be redistributed for clarity
 - Text in buttons is hard to read, it is small and in poor resolution
 
-Here are some other errors we have come across from using this app in the past
+Here are some other errors/pain points we have come across from using this app in the past
 - There is poor user confirmation - more feedback on actions with form submission
 - Lack of clarity in instructions and actions
 
