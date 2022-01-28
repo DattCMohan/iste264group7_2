@@ -33,14 +33,14 @@ Here are some other errors we have come across from using this app in the past
 
 ### Stakeholders
 
-### Students
-Our main stakeholders are the students of RIT, who use this interface to access and submit important information about on campus housing and meal plans. All three of us have used these features, and every student at RIT will have to access it at least during their freshman year to find their room assignment.
+#### Students
+Our main stakeholders are the students of RIT, who use this interface to access and submit important information about on campus housing and meal plans. All three of us have used these features, and every student at RIT will have to access and utilize it at least during their freshman year to find their room assignment.
 
-1. Goals - to make easier and less frustrating and confusing to use. add clarity and proper navigation, make it streamlined
-2. Worries - knowing if something actually submitted
-3. Ideas - see if anyone has other suggestions besides our own
-4. Involvement - we all use it, have other students involved in the redesign process
-5. Communication - interview other students from classes, have them test the prototypes to find areas of confusion
+1. The students’ goals are to easily and quickly use the myLife website in order to complete many different actions, including completing housing applications, dining applications, receiving messages, and submitting maintenance requests. And for incoming students, their goals include easily learning to use and understand how to use the website without any/much experience with something similar because they have to use it before coming to RIT (and will have many other applications/websites to figure out as well).
+2. The students’ worries include ensuring that they enter all the correct information and that they complete the correct actions, so that they will be able to achieve their goal for using the website. An example would be filling out the correct roommate and building information for housing applications. However, myLife often does not provide correct feedback for students’ submissions and students are worried that they have not completed the correct actions.
+3. Talking to students revealed some changes needed to be made. One is an easier way to login. Logging in is not as simple a task as it should be because it takes the user too many unnecessary clicks and through too many unnecessary screens. A simpler, more understandable navigation was another idea because students often got annoyed trying to get back to the homepage. Another important change that was needed is some sort of feedback for various actions. An example that multiple students had struggled with was attempting to submit a roommate request, but the students never received confirmation that the request was submitted, so they ended up submitting multiple times, which ended up confusing both the students, as well as housing.
+4. Stakeholders can be involved in the design process by interviewing RIT students who use the myLife website (especially students who are non-technical majors) about their experiences/ideas for the website.
+5. Communication about progress and design can be handled through showing the existing application (the myLife website) and new application designs (sketches, wireframes, prototypes, etc.). We can involve RIT students in the process and understand their way of communicating by interviewing them and conducting usability tests/activities.
 
 ### How can Prototyping help?
 Prototyping can help because we are looking at user flow and navigation. It is easy to test a new user flow using a prototype, because we can have users and stakeholders attempt to use the prototype. If there are still usability challeges, this would illuminate them. We can quickly and easily edit the flow of information on a prototype, as opposed to coding the site first.
