@@ -1,7 +1,7 @@
 ## RIT myLife Redesign
 
 ### Our Team
-- **Emma Thomas** is a second year HCC student interested in UX design and development
+- **Emma Thomas** is a second year HCC student interested in UX design and front end development
 - **Renee Bogdany** is a second year HCC student interested in UX research and design
 - **Christian Mohan** is a second year HCC student is interested in UX research and design
 
@@ -41,10 +41,19 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 5. Communication - interview other students from classes, have them test the prototypes to find areas of confusion
 
 ### How can Prototyping help?
-- Prototyping can help because we are looking at user flow and navigation, it is easy to test this with a prototype
-- We would either prototype home screen, and then a landing page for each main topic, or home page and one full flow of one concept - like housing and dining application
+Prototyping can help because we are looking at user flow and navigation. It is easy to test a new user flow using a prototype, because we can have users and stakeholders attempt to use the prototype. If there are still usability challeges, this would illuminate them. We can quickly and easily edit the flow of information on a prototype, as opposed to coding the site first.
 
-### Images and Examples of some of the main Design Problems
+Here is what we can prototype:
+- Welcome page with a login button
+- Homescreen with new navigation menu and structure
+- Housing application process, our focus will be on the housing flow
+- New layout for each of the main content pages
+
+We are prototyping the new navigation flow, because that is the main usability and design problems with the myLife site. We are also prototyping new pages for each of the content sections, as well as the homepage, to fix the layout to make it easily understandable. Some full processes and flows, such as the housing application, will be prototyped to fix clarity issues.
+
+We cannot prototype the actual login screen, as it is done by an outside authentication source.
+
+### Images and Examples of some of the Main Design Problems
 Below is the sequence of screens to get to the login, users should not have to click "login" twice, or be greeted with a blank page.
 ![login screen](https://emmathomas36.github.io/iste264group7/login.png)
 After clicking the first login, you get to this screen, where you must login again
