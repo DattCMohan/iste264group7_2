@@ -44,9 +44,10 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 - Prototyping can help because we are looking at user flow and navigation, it is easy to test this with a prototype
 - We would either prototype home screen, and then a landing page for each main topic, or home page and one full flow of one concept - like housing and dining application
 
-### Images and Examples of Design Problems
+### Images and Examples of some of the main Design Problems
 Below is the sequence of screens to get to the login, users should not have to click "login" twice, or be greeted with a blank page.
 ![login screen](https://emmathomas36.github.io/iste264group7/login.png)
+After clicking the first login, you get to this screen, where you must login again
 ![login screen 2](https://emmathomas36.github.io/iste264group7/login2.png)
 
 Here is an example of the empty space and poor layout of the home screen:
@@ -54,5 +55,6 @@ Here is an example of the empty space and poor layout of the home screen:
 
 Here is what happens when you click on your name in the menu. This also highlights the sparse navigation menu, and how you have to go home before going to another main page.
 ![login screen](https://emmathomas36.github.io/iste264group7/menuscreen.png)
+After clicking your name, you are taken to this "Page not Found." This should be a direct link to home, or it should not be clickable.
 ![login screen 2](https://emmathomas36.github.io/iste264group7/pagenotfound.png)
 
