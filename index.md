@@ -1,9 +1,12 @@
 ## RIT myLife Redesign
 
 ### Our Team
-- **Emma Thomas** 
-- **Renee Bogdany**
-- **Christian Mohan**
+- **Emma Thomas** is a second year HCC student interested in UX design and development
+- **Renee Bogdany** is a second year HCC student interested in UX research and design
+- **Christian Mohan** is a second year HCC student is interested in UX research and design
+
+#### Set of Covenants
+We have agreed that if a group member misses more than 3 meetings without a reasonable excuse, the other group members can choose to ask them to leave the group. If we cannot come to an agreement, we will all voice our opinions and discuss. If 2/3 members agree, that will be the decision. If 2 group members agree that the 3rd member is not pulling their weight in the group, they will get a warning before asking them to leave.
 
 ### Our Customer
 Our customer would be RIT, as we are redesigning one of the sites they provide to students.
@@ -40,4 +43,7 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 ### How can Prototyping help?
 - Prototyping can help because we are looking at user flow and navigation, it is easy to test this with a prototype
 - We would either prototype home screen, and then a landing page for each main topic, or home page and one full flow of one concept - like housing and dining application
+
+### Images and Examples of Design Problems
+![login screen](https://emmathomas36.github.io/iste264group7/login.png).
 
