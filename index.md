@@ -29,7 +29,8 @@ Here are some other errors we have come across from using this app in the past
 - Lack of clarity in instructions and actions
 
 ### Stakeholders - Students?
-Have to interview students?
+Our main stakeholders are the students of RIT, who use this interface to access and submit important information about on campus housing and meal plans. All three of us have used these features, and every student at RIT will have to access it at least during their freshman year to find their room assignment.
+
 1. Goals - to make easier and less frustrating and confusing to use. add clarity and proper navigation, make it streamlined
 2. Worries - knowing if something actually submitted
 3. Ideas - see if anyone has other suggestions besides our own
