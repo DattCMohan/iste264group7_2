@@ -42,7 +42,7 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 4. Stakeholders can be involved in the design process by interviewing RIT students who use the myLife website (especially students who are non-technical majors) about their experiences/ideas for the website.
 5. Communication about progress and design can be handled through showing the existing application (the myLife website) and new application designs (sketches, wireframes, prototypes, etc.). We can involve RIT students in the process and understand their way of communicating by interviewing them and conducting usability tests/activities.
 
-Empathy Map for Student
+Empathy Map for Student<br>
 Specifically: a student trying to fill out housing/dining application and find rooomate agreement form.
 ![Empathy Map](https://emmathomas36.github.io/iste264group7/Empathy_Map.png)
 
