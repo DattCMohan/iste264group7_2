@@ -42,6 +42,10 @@ Our main stakeholders are the students of RIT, who use this interface to access 
 4. Stakeholders can be involved in the design process by interviewing RIT students who use the myLife website (especially students who are non-technical majors) about their experiences/ideas for the website.
 5. Communication about progress and design can be handled through showing the existing application (the myLife website) and new application designs (sketches, wireframes, prototypes, etc.). We can involve RIT students in the process and understand their way of communicating by interviewing them and conducting usability tests/activities.
 
+Empathy Map for Student
+Specifically: a student trying to fill out housing/dining application and find rooomate agreement form.
+![Empathy Map](https://emmathomas36.github.io/iste264group7/Empathy_Map.png)
+
 #### RIT Administration - including ITS and RIT Housing, Dining, and Maintenance
 Our other main stakeholders are the RIT Administration, including ITS, because it is one of the RIT websites used to provide services to its students. It also affects RIT Housing, Dining, and Maintenance because students use the myLife website to interact with these RIT departments.
 1. RIT Administration has many goals for the myLife website. It is supposed to handle housing and dining (meal plan) applications, report students’ housing assignments, as well as handle many types of forms - including employment, awards, and maintenance. It should provide all of these things in one place and it should allow students to be able to use it without problems so that it will not cause any issues for any of the Housing, Dining, and Maintenance departments or ITS.
