@@ -31,6 +31,10 @@ Here are some other errors/pain points we have come across from using this app i
 - There is poor user confirmation - more feedback on actions with form submission
 - Lack of clarity in instructions and actions
 
+#### Potential New User Flow
+Here is a link to a FigJam document containing the current user flow and our first attempt at creating a new user flow.
+[User Flow Diagrams](https://www.figma.com/file/Ml8dmkq7e6or5L46IhrBt0/MyLife?node-id=0%3A1)
+
 ### Stakeholders
 
 #### Students
