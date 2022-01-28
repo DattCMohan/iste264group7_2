@@ -6,26 +6,27 @@
 - **Christian Mohan**
 
 ### Our Customer
-Rit and the students?
+Our customer would be RIT, as we are redesigning one of the sites they provide to students.
 
 ### Design Problem
-MyLife RIT
-Overall Navigation
-- only get to other pages from home
-- no clear home button
-- some have a home button?
-- clicking your name takes you to a "page not found"
-- entire heading takes you home, not clear and can cause errors
-- odd grouping of main pages
-- unnecessary steps to login/ blank page, have to click "login" twice
+The myLife website is used for housing applications, dining meal plans, employment forms, and more. The interface is very hard to use, with the main issues being the site navigation and the overall layout. Our group will be redesigning this application to make a better user flow, and an overall more usable interface.
 
-Layout
-- no effective spacing
-- open space, could be redistributed
+Here are the main issues we found while navigating the app:
+- No global navigation, you can only get to main pages from home
+- The home button is inconsistant and unclear, some pages have one, others do not
+- Entire header takes you home, which is unclear at first, and creates room for accidental errors and clicks
+- Clicking your name takes you to a "page not found" and a link to click to return home
+- There is an odd grouping of information for each page
+- Unnecessary steps to login, there is a blank page at first, have to click "login" twice
 
-User confirmation - more feedback on actions
-Text in buttons is fuzzy, small, hard to read
-Lack of clarity in instructions and actions
+Here are the main issues with the Layout:
+- There is ineffective spacing between things
+- There is lots of open space, items could be redistributed for clarity
+- Text in buttons is hard to read, it is small and in poor resolution
+
+Here are some other errors we have come across from using this app in the past
+- There is poor user confirmation - more feedback on actions with form submission
+- Lack of clarity in instructions and actions
 
 ### Stakeholders - Students?
 Have to interview students?
