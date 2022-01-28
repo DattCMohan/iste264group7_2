@@ -50,6 +50,9 @@ Below is the sequence of screens to get to the login, users should not have to c
 ![login screen 2](https://emmathomas36.github.io/iste264group7/login2.png)
 
 Here is an example of the empty space and poor layout of the home screen:
+![Home screen](https://emmathomas36.github.io/iste264group7/homescreen.png)
 
 Here is what happens when you click on your name in the menu. This also highlights the sparse navigation menu, and how you have to go home before going to another main page.
+![login screen](https://emmathomas36.github.io/iste264group7/menuscreen.png)
+![login screen 2](https://emmathomas36.github.io/iste264group7/pagenotfound.png)
 
