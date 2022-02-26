@@ -1,6 +1,6 @@
-## RIT myLife Redesign
+*[Homework 2 - Lofi Prototype](lofi.md)*
 
-*[Homework 2 - Lofi Prototype](lofi.md)*.
+## RIT myLife Redesign
 
 ### Our Team
 - **Emma Thomas** is a second year HCC student interested in UX design and front end development.
