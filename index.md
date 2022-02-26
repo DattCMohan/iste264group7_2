@@ -36,6 +36,11 @@ Here are some other errors/pain points we have come across from using this app i
 Here is a link to a FigJam document containing the current user flow and our first attempt at creating a new user flow.
 [User Flow Diagrams](https://www.figma.com/file/Ml8dmkq7e6or5L46IhrBt0/MyLife?node-id=0%3A1)
 
+Example of improvements on the User Flow<br>
+Here is the old userflow for housing options compared to our improved version:
+![Old Housing Userflow](https://emmathomas36.github.io/iste264group7/old_home.PNG)
+![New Housing Userflow](https://emmathomas36.github.io/iste264group7/new_home.PNG)
+
 ### Stakeholders
 
 #### Students
