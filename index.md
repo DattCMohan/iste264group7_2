@@ -37,8 +37,10 @@ Here is a link to a FigJam document containing the current user flow and our fir
 [User Flow Diagrams](https://www.figma.com/file/Ml8dmkq7e6or5L46IhrBt0/MyLife?node-id=0%3A1)
 
 Example of improvements on the User Flow<br>
-Here is the old userflow for housing options compared to our improved version:
+Here is the old userflow for housing options compared to our improved version<br>
+Old:<br>
 ![Old Housing Userflow](https://emmathomas36.github.io/iste264group7/old_home.PNG)
+New<br>
 ![New Housing Userflow](https://emmathomas36.github.io/iste264group7/new_home.PNG)
 
 ### Stakeholders
