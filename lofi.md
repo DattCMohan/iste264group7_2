@@ -1,6 +1,7 @@
 ## RIT myLifeRedesign
 
 *[Home](index.md)*
+
 *[Homework 3 - Lofi Prototype Evaluation](lofi_evaluation.md)*
 
 ### Lofi Prototype
