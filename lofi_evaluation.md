@@ -16,7 +16,7 @@ We are looking to test our prototype for the RIT myLife website to see if it wor
 These are the heuristic questions that were sent to the participants as a google form after they finished walking through the tasks. They will fill this out at the end. Here is the link: 
 1. How would you rate the ability to navigate through the app and understand what you are doing? 
 2. How familiar is the wording/phrasing used in the app?
-3. Overall, how would you rate the ease of use / user flow of the app? 
+3. Overall, how would you easy was the app to use? 
 4. How consistant is the the layout and structure throughout the app?
 5. How common was it for you to make errors when you used the app? (Examples - clicking the wrong button for what you wanted to do, navigating to the wrong page, etc.)
 6. How would you rate the ability to find the information you need for each screen (for example - is it on the same page or do you have to go searching for it)?
