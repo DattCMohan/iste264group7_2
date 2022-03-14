@@ -1,4 +1,4 @@
-## RIT myLifeRedesign
+## RIT myLife Redesign
 
 *[Home](index.md)*
 
