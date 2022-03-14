@@ -17,7 +17,7 @@ These are the heuristic questions that were sent to the participants as a google
 1. How would you rate the ability to navigate through the website and understand what you are doing? 
 2. How familiar is the wording/phrasing used on the website?
 3. Overall, how easy was the website to use? 
-4. How consistent is the the layout and structure throughout the website?
+4. How consistent is the layout and structure throughout the website?
 5. How common was it for you to make errors when you used the website? (Examples - clicking the wrong button for what you wanted to do, navigating to the wrong page, etc.)
 6. How would you rate the ability to find the information you need for each screen (for example - is it on the same page or do you have to go searching for it)?
 7. How would you rate the relevance of the features / content on the website? (In other words - is everything on the screen relevant to the purpose of the app or are there unnecessary features)
