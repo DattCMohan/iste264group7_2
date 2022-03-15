@@ -10,7 +10,7 @@ Each group member met with two people in person and had them talk through specif
 We are looking to test our prototype for the RIT myLife website to see if it works as we planned it. We want to make it known that you can't make any mistakes or do anything wrong. We are doing this to test our design. And we also really appreciate your honest feedback on our design. So don't worry about criticizing it or worry that you will hurt our feelings, we just want your honest reaction. If you have any questions, feel free to ask them, although we may not want to answer at the time since we want to pretend as if you are trying to use this on your own. Feel free to ask any questions at the end as well. We are going to ask you to complete some tasks and we would appreciate if you would talk your way through the interactions and explain your thinking. After we complete the tasks, we are just going to ask you to fill out a quick survey about the prototype.
 
 #### Tasks Assigned to Participants
-1. Log in and set up a housing and meal plan for the next school year.
+1. You are an RIT Student and you need to log in and set up a housing and meal plan for the next school year.
 2. Submit a maintenance request for your bedroom.
 3. Go back and change the meal plan that you selected for next year.
 4. Find the roommate agreement.
