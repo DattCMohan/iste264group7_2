@@ -32,10 +32,7 @@ These are the heuristic questions that were sent to the participants as a google
 #### Observational Findings
 
 #### Heuristic Evaluation Findings
-![Graph 1](https://emmathomas36.github.io/iste264group7/graph1.png) ![Graph 2](https://emmathomas36.github.io/iste264group7/graph2.png)
-![Graph 3](https://emmathomas36.github.io/iste264group7/graph3.png) ![Graph 4](https://emmathomas36.github.io/iste264group7/graph4.png)
-![Graph 5](https://emmathomas36.github.io/iste264group7/graph5.png) ![Graph 6](https://emmathomas36.github.io/iste264group7/graph6.png)
-![Graph 7](https://emmathomas36.github.io/iste264group7/graph7.png) 
+![Graphs](https://emmathomas36.github.io/iste264group7/combined_graphs.png) 
 
 
 #### What to Change and Improve
