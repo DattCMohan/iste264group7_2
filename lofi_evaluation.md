@@ -25,3 +25,15 @@ These are the heuristic questions that were sent to the participants as a google
 6. How would you rate the ability to find the information you need for each screen (for example - is it on the same page or do you have to go searching for it)?
 7. How would you rate the relevance of the features / content on the website? (In other words - is everything on the screen relevant to the purpose of the app or are there unnecessary features)
 8. Do you have any additional comments about the website design? (Especially anything about navigation or layout)
+
+
+### Our Results
+
+#### Observational Findings
+
+#### Heuristic Evaluation Findings
+
+
+
+#### What to Change and Improve
+
