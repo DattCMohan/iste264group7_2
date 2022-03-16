@@ -31,8 +31,14 @@ These are the heuristic questions that were sent to the participants as a google
 
 #### Observational Findings
 
+- Confusion when going to edit the meal plan, users did not know where to go to edit meal plan
+- It is unclear if they can jump from section to section on the housing application when they go back to edit
+
 #### Heuristic Evaluation Findings
 
 
 #### What to Change and Improve
 
+We would like to improve the housing and dining application process by separating the housing process from the meal plan process to elimate confusion. The subsections for housing would be under housing, and all the meal plan subsections would be grouped as well. This would make the process to change and edit less confusing. We would also like to add more instruction before completing the application for first time users, so they do not get confused. It would also be helpful to add a feedback page to thank them for submitting, and maybe add links to follow up forms (such as the roommate agreement form). It should also be made more clear that users can click on the left links when going back to edit their housing application. The first time they fill out these sections, this would be blocked, so they cannot jump forward. The specific meal plan options link should be more clear, so that users know they can find more information on each plan.
+
+On the maintenance page, the shared and my jobs section should be simplified and combined into one submission request to make it easier to use. The term 'more information' should be changed for clarity.
