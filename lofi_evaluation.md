@@ -30,9 +30,15 @@ These are the heuristic questions that were sent to the participants as a google
 ### Our Results
 
 #### Observational Findings
-
+Housing and Dining 
 - Confusion when going to edit the meal plan, users did not know where to go to edit meal plan
 - It is unclear if they can jump from section to section on the housing application when they go back to edit
+- Some users wanted feedback at the end of the housing and dining application for confirmation
+- It was unclear where the roommate agreement form was found
+
+Maintenance
+- Confusion with the shared jobs and my jobs toggle
+- 'More information' tab was unclear and vague
 
 #### Heuristic Evaluation Findings
 
