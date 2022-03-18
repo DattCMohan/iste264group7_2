@@ -34,13 +34,13 @@ Housing and Dining
 - THere was confusion when users were trying edit the meal plan (after they already selected it once). Users did not know where to go to edit meal plan. Some users went to the modify or cancel section (not realizing this was only for housing).
 - It is unclear if they can jump from section to section on the housing application when they go back to edit. One user went through all of the pages (and clicked save and continue each time) in order to get back to the meal plan, and they noted in the last question of the google form that "The only thing that was a little difficult was getting to the meal plan from the housing and dining tab, it took a lot of clicks."
 - Some users wanted feedback at the end of the housing and dining application for confirmation. One user said, "“Everything is finished, so there’d be a page that says thank you for filling it out right?”
-- It was unclear where the roommate agreement form was found
-- Confusion on what the meal plan option meant (stripes, tiger, claws, etc)
+- It was unclear where the roommate agreement form was found. Some users went to the housing and dining application first to find it. Most users, however, did find it in forms first, but some seemed unsure saying things like "I'm guessing you would go to forms" or "I probably go to forms."
+- Users were also confused on what the meal plan options meant (stripes, tiger, claws, etc). When one user was deciding which meal plan to pick they said, "I don't know I don't have a meal plan."
 
 Maintenance
-- Confusion with the shared jobs and my jobs toggle
-- 'More information' tab was unclear and vague
-- Confusion on if jobs meant maintenance requests or maintenance employment
+- There was confusion with the shared jobs and my jobs toggle. Some users went to the wrong toggle or did not look at the shared vs. my jobs toggle at all. One user said, “I never would’ve found the shared jobs if you had said submit one of those”. And one user noted in the last question on the google form that we should "make jobs all one job get rid of shared jobs."
+- The 'More information' tab was unclear and vague. One user said, "Do I do it in more information? I suppose" and seemed a little unsure.
+- There was also confusion on if jobs meant maintenance requests or maintenance employment. One user noted in the last question on the google form, "Why does it say my jobs if I'm not the maintenance worker. I am very confused."
 
 #### Heuristic Evaluation Findings
 
