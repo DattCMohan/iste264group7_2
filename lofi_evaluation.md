@@ -31,9 +31,9 @@ These are the heuristic questions that were sent to the participants as a google
 
 #### Observational Findings
 Housing and Dining 
-- THere was confusion when going to edit the meal plan, users did not know where to go to edit meal plan
-- It is unclear if they can jump from section to section on the housing application when they go back to edit
-- Some users wanted feedback at the end of the housing and dining application for confirmation
+- THere was confusion when users were trying edit the meal plan (after they already selected it once). Users did not know where to go to edit meal plan. Some users went to the modify or cancel section (not realizing this was only for housing).
+- It is unclear if they can jump from section to section on the housing application when they go back to edit. One user went through all of the pages (and clicked save and continue each time) in order to get back to the meal plan, and they noted in the last question of the google form that "The only thing that was a little difficult was getting to the meal plan from the housing and dining tab, it took a lot of clicks."
+- Some users wanted feedback at the end of the housing and dining application for confirmation. One user said, "“Everything is finished, so there’d be a page that says thank you for filling it out right?”
 - It was unclear where the roommate agreement form was found
 - Confusion on what the meal plan option meant (stripes, tiger, claws, etc)
 
