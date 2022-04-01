@@ -1,4 +1,4 @@
-## Lofi Prototype Evaluation
+## High Fidelity Prototype
 *[Home](index.md)*
 
 *[Homework 2 - Lofi Prototype](lofi.md)*
