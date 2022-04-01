@@ -3,6 +3,8 @@
 
 *[Homework 3 - Lofi Prototype Evaluation](lofi_evaluation.md)*
 
+*[Homework 4 - Hifi Prototype](hifi.md)*
+
 
 ### Our Team
 - **Emma Thomas** is a second year HCC student interested in UX design and front end development.
