@@ -1,4 +1,4 @@
-### High Fidelity Evaluation
+## High Fidelity Evaluation
 1. consent form for filming
 2. conduct tests separately but film on zoom so we get audio and screen sharing
 3. can say we watched each others interviews, as a way to make it okay to test separate
