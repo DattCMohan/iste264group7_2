@@ -6,6 +6,8 @@
 
 *[Homework 4 - Hifi Prototype](hifi.md)*
 
+*[Homework 5- Hifi Evaluation](hifi_evaluation.md)*
+
 ### Lofi Prototype
 
 The Figma link to our lofi prototype can be found [here](https://www.figma.com/file/HlYKqKjuSkH1MM4Rj6noa8/Homework-2?node-id=0%3A1). The navigation is shown through arrows linking the pages together.
