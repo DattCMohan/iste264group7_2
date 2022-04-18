@@ -5,6 +5,8 @@
 
 *[Homework 4 - Hifi Prototype](hifi.md)*
 
+*[Homework 5- Hifi Evaluation](hifi_evaluation.md)*
+
 ### Our Method
 Each group member met with two people in person and had them talk through specific tasks. Our group members read the welcome script and then recorded important details from their interactions and conversations as the participants were attempting the tasks. The participants were asked to complete one task at a time, in the order that they appear below. After the tasks were completed, the participants received a google form to evaluate the heuristics of the website. At the end, we will thank our participants and see if they have any remaining questions.
 
