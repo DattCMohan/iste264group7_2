@@ -5,6 +5,8 @@
 
 *[Homework 4 - Hifi Prototype](hifi.md)*
 
+*[Homework 5- Hifi Evaluation](hifi_evaluation.md)*
+
 
 ### Our Team
 - **Emma Thomas** is a second year HCC student interested in UX design and front end development.
