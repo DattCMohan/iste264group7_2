@@ -29,11 +29,11 @@ Lastly, you will be asked to sign a consent form in order to allow me to record 
 
 ### Tasks
 Here are the tasks we assigned each participant, in order, to evaluate our prototype:
-1. Log in and edit the meal plan from the 21-22 academic year.
-2. Complete both the housing and dining applications for 22-23 academic year.
-3. You no longer need housing for the 21-22 school year, find where you cancel the housing application, but keep the meal plan.
-4. Go to complete the pending form.
+1. You no longer need campus housing and you want to change your meal plan for the 21-22 academic year. Log in and edit the meal plan, and then cancel your 21-22 housing request.
+2. Although this would typically be done at a later time, please complete both the housing and dining applications for 22-23 academic year.
+3. Go to complete the pending form.
 
 ### Evaluation Form
 The evaluation form that the participants are completing after going through the tasks can be found *[here](https://forms.gle/RcCZQAJNt1nHjJfH8)*
 
+note - changed tasks after renee tested because theyll work better
