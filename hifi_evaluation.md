@@ -6,7 +6,6 @@
 *[Homework 3 - Lofi Prototype Evaluation](lofi_evaluation.md)*
 
 *[Homework 4- Hifi Prototype](hifi.md)*
-
 ### Overview
 We have decided to test our high fidelity prototype by having the partipants sign a consent form to be recorded, and then using Zoom to gain the ability to record both the screen and the participant at the same time. We will be asking them to walk through specific tasks, which are aimed to test the features we had to improve from our low fidelity prototype. We will also be having the participants complete a short heuristic survey to see how we have improved the design from the low fidelity prototype.
 
@@ -14,12 +13,12 @@ We are recording the usability tests because our team has conflicting schedules 
 
 Both the consent form and script are based on the consent form/initial script templates from Rocket Surgery Made Easy website.
 
-### Consent Form
+#### Consent Form
 The consent form can he found here: *[Consent Form PDF](consent_form.pdf)*
 
 All participants had to sign before conducting the test, because will be sharing the recording of their test.
 
-### Initial Script
+#### Initial Script
 When we begin the test, here is the script to be followed to ensure all participants begin with the same information. This was done before the recording was started, because the consent form was signed after this script:
 
 Hi, I'm going to be walking you through this test today. Before we start, we have some information for you. You may have some idea of why we asked you to be here today, but I will go over it again briefly. We are looking to test our high fidelity prototype in order to analyze our improvements from our low fidelity prototype. The first thing I want to make clear right away is that we’re testing our design, not you. You can’t do anything wrong here or make any mistakes.
@@ -27,13 +26,24 @@ You will be asked a series of tasks to complete, and I encourage you to talk thr
 Also, please don’t worry that you’re going to hurt our feelings. We’re doing this to improve the site, so we need to hear your honest reactions. If you have any questions as we go along, just ask them. I may not be able to answer them right away, since we’re interested in how people do when they don’t have someone sitting next to them to help. But if you still have any questions when we’re done I’ll try to answer them then. And if you need to take a break at any point, just let me know.
 Lastly, you will be asked to sign a consent form in order to allow me to record your screen and your comments via zoom. Once this form is signed we will begin the test.
 
-### Tasks
+#### Tasks
 Here are the tasks we assigned each participant, in order, to evaluate our prototype:
 1. You no longer need campus housing and you want to change your meal plan for the 21-22 academic year. Log in and edit the meal plan, and then cancel your 21-22 housing request.
 2. Although this would typically be done at a later time, please complete both the housing and dining applications for 22-23 academic year.
 3. Go to complete the pending form.
 
-### Evaluation Form
+#### Evaluation Form
 The evaluation form that the participants are completing after going through the tasks can be found *[here](https://forms.gle/RcCZQAJNt1nHjJfH8)*
+
+
+### Analysis and Results
+... overview here
+
+#### Video Recordings
+The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)* We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
+
+#### Evaluation Form Graphs and Results
+
+#### Conclusion and Takeaways
 
 note - changed tasks after renee tested because theyll work better
