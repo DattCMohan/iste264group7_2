@@ -40,7 +40,7 @@ The evaluation form that the participants are completing after going through the
 ... overview here
 
 #### Video Recordings
-The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)* We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
+The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)*. We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
 
 #### Evaluation Form Graphs and Results
 
