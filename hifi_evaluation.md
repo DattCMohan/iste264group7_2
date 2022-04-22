@@ -47,7 +47,7 @@ The participant was easily able to login and find the housing & dining applicati
 2. Participant 2:
 
 
--- Participants with Changed Tasks --
+-- Participants with Changed Tasks -- <br/>
 3. Participant 3:
 This participant experienced some confusion while editting the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
 
