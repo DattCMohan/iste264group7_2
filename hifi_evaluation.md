@@ -56,8 +56,10 @@ This participant experienced some confusion while editing the 21-22 meal plan an
 This participant had a minor issue with the save and exit as well, when he edited the meal plan he exited editing the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well.
 
 5. Participant 5:
+This participant was able to jump from housing straight to the meal plan successfully in the first task. In the second task this participant was also able to complete it quickly and as efficiently as we intended. In the final task the participant was able to find the form quickly, but got confused on whether he could click on the form in the warning or just in the list of links.
 
 6. Participant 6:
+This participant had some confusion when editing their 21-22 meal plan and cancelling housing in the first task. She jumped right to the meal plan and skipped housing then submitted and exit, so she had to go back into the housing / dining section to cancel the housing. During the second task the participant got confused on whether they were in the 21-22 application or the 22-23 application, so she filled out the 21-22 section instead of 22-23 as was intended. This may mean we need a more clear indicator for which application you are filling out while in the forms. The participant also was confused on whether they could click on the pending form in the third task or if they had to click on the blue link below it.
 
 #### Video Recordings
 The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)*. We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
