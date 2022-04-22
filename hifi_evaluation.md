@@ -47,8 +47,7 @@ The participant was easily able to login and find the housing & dining applicati
 2. Participant 2:
 This participant was able to complete all of the tasks. They were able to edit the meal plan and go through the entire housing & dining flow. They moved from the housing part of the application to the meal plan part of the applicatin by clicked on the meal plan button that pops up after clicking on submit for the housing portion. They were also easily able to find the cancel portion of the housing contract, as well as the pending form for those tasks.
 
--- Participants with Changed Tasks -- <br/>
-<br/>
+-- Participants with Changed Tasks -- <br/><br/>
 3. Participant 3:
 This participant experienced some confusion while editing the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
 
