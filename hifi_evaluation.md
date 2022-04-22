@@ -47,3 +47,5 @@ The recordings of the audio and screen of the participants can be found in this 
 #### Conclusion and Takeaways
 
 note - changed tasks after renee tested because theyll work better
+ideas for things to change 
+1. returning users to housing and dining automatically opened housing, maybe have it on the application tab so they notice that they can select either housing or dining -- eliminates the issue where they left that page after cancelling housing and then had to go back to same page for meal plan
