@@ -42,14 +42,16 @@ The evaluation form that the participants are completing after going through the
 #### Specific Participant Results
 
 1. Participant 1:
-This participant experienced some confusion while editting the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
+The participant was easily able to login and find the housing & dining application for 
 
 2. Participant 2:
-This participant had a minor issue with the save and exit as well, when he edited the meal plan he exited editting the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well.
+
 
 3. Participant 3:
+This participant experienced some confusion while editting the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
 
 4. Participant 4:
+This participant had a minor issue with the save and exit as well, when he edited the meal plan he exited editing the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well.
 
 5. Participant 5:
 
