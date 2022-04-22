@@ -42,11 +42,12 @@ The evaluation form that the participants are completing after going through the
 #### Specific Participant Results
 
 1. Participant 1:
-The participant was easily able to login and find the housing & dining application for 
+The participant was easily able to login and find the housing & dining application for the changing the meal plan task. They used the top navigation in order to navigate the housing & dining application. When going to select the meal plan to change it, they hesitated at first and made a comment about how they thought it would be under housing. But when they couldn't it there, they found it below the housing tab pretty quickly. For the task to complete the housing & dining applications for the 22-23 academic year, the participant did not go back to the housing & dining application, but stayed in the 21-22 academic year. They were confused, but eventually went through the housing flow. For the cancel housing task, the participant was easily able to find the housing application and went right to the modify or cancel section. Lastly, they were easily able to find the pending form. 
 
 2. Participant 2:
 
 
+-- Participants with Changed Tasks --
 3. Participant 3:
 This participant experienced some confusion while editting the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
 
