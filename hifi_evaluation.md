@@ -5,7 +5,7 @@
 
 *[Homework 3 - Lofi Prototype Evaluation](lofi_evaluation.md)*
 
-*[Homework 4- Hifi Prototype](hifi.md)*
+*[Homework 4 - Hifi Prototype](hifi.md)*
 ### Overview
 We have decided to test our high fidelity prototype by having the partipants sign a consent form to be recorded, and then using Zoom to gain the ability to record both the screen and the participant at the same time. We will be asking them to walk through specific tasks, which are aimed to test the features we had to improve from our low fidelity prototype. We will also be having the participants complete a short heuristic survey to see how we have improved the design from the low fidelity prototype.
 
