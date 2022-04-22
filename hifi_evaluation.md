@@ -41,19 +41,19 @@ The evaluation form that the participants are completing after going through the
 
 #### Specific Participant Results
 
-1. Participant 1 (emma)
+1. Participant 1:
 This participant experienced some confusion while editting the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
 
-2. Participant 2 (emma)
+2. Participant 2:
 This participant had a minor issue with the save and exit as well, when he editted the meal plan he exited editting the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well.
 
-3. Participant 3 (renee)
+3. Participant 3:
 
-4. Participant 4 (renee)
+4. Participant 4:
 
-5. Participant 5 (christian)
+5. Participant 5:
 
-6. Participant 6 (christian)
+6. Participant 6:
 
 #### Video Recordings
 The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)*. We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
@@ -66,3 +66,4 @@ note - changed tasks after renee tested because theyll work better
 ideas for things to change 
 1. returning users to housing and dining automatically opened housing, maybe have it on the application tab so they notice that they can select either housing or dining -- eliminates the issue where they left that page after cancelling housing and then had to go back to same page for meal plan
 2. Save and exit and save and continue could be confusing. maybe need to go back and just have a save button and a continue button, with a popup when you leave to go to mealplan from housing. maybe an x in the corner so its not as easy to just exit out.
+3. modify and cancel seems to be less confusing now that housing and dining are separated... I dont think the separation is causing confusion, just the exit button. Also the fact that its not 'fully' functional as a website
