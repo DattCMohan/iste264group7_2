@@ -65,6 +65,8 @@ This participant had some confusion when editing their 21-22 meal plan and cance
 The recordings of the audio and screen of the participants can be found in this google drive folder *[here](https://drive.google.com/drive/folders/1KyHpb_v4S6cGjn2kiVPZXTvCSSd4evgA?usp=sharing)*. We used these videos as a way to share results with other group members, as we were unable to conduct our tests together due to scheduling conflicts. 
 
 #### Evaluation Form Graphs and Results
+Here are the graphical results for our evaluation form that the participants completed after walking through the tasks:
+![Evaluation Graphs](hw5graphs.png)
 
 #### Conclusion and Takeaways
 
