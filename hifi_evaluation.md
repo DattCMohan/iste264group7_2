@@ -37,7 +37,7 @@ The evaluation form that the participants are completing after going through the
 
 
 ### Analysis and Results
-... overview here
+Overall, it seems like our new housing and dining set up works well, with a few minor issues to fix. The layout appears to have more clarity, and the main issues now are due to prototyping errors minor confusion between the separation of housing and dining when they are going to 'edit'. We had to alter our tasks for clarity after Renee had tested her participants, because we realized the questions were poorly ordered and worded, so we fixed that before testing our last 4 participants. 
 
 #### Specific Participant Results
 
@@ -45,15 +45,15 @@ The evaluation form that the participants are completing after going through the
 The participant was easily able to login and find the housing & dining application for the changing the meal plan task. They used the top navigation in order to navigate the housing & dining application. When going to select the meal plan to change it, they hesitated at first and made a comment about how they thought it would be under housing. But when they couldn't it there, they found it below the housing tab pretty quickly. For the task to complete the housing & dining applications for the 22-23 academic year, the participant did not go back to the housing & dining application, but stayed in the 21-22 academic year. They were confused, but eventually went through the housing flow. For the cancel housing task, the participant was easily able to find the housing application and went right to the modify or cancel section. Lastly, they were easily able to find the pending form. 
 
 2. Participant 2:
-This participant was able to complete all of the tasks. They were able to edit the meal plan and go through the entire housing & dining flow. They moved from the housing part of the application to the meal plan part of the applicatin by clicked on the meal plan button that pops up after clicking on submit for the housing portion. They were also easily able to find the cancel portion of the housing contract, as well as the pending form for those tasks.
+This participant was able to complete all of the tasks. They were able to edit the meal plan and go through the entire housing & dining flow. They moved from the housing part of the application to the meal plan part of the application by clicked on the meal plan button that pops up after clicking on submit for the housing portion. They were also easily able to find the cancel portion of the housing contract, as well as the pending form for those tasks.
 
 -- Participants with Changed Tasks -- <br/>
 
 3. Participant 3:
-This participant experienced some confusion while editing the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well.
+This participant experienced some confusion while editing the 21-22 meal plan and cancelling housing. She had saved and exited after cancelling the housing, rather than jumping right to meal plan as we had intended with our design. This is most likely because she had not noticed the meal plan button, as the edit page defaults to the full housing application menu. Additionally, she did not complete the meal plan in the second task, she had also hit save and exit and did not go back. This all could be confusion with the save and exit button as well. SHe had no trouble finding the pending form.
 
 4. Participant 4:
-This participant had a minor issue with the save and exit as well, when he edited the meal plan he exited editing the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well.
+This participant had a minor issue with the save and exit as well, when he edited the meal plan he exited editing the application, and then quickly went back in to cancel housing. He was able to smoothly navigate the rest of the site well, and mainly used the top navigation. Once he was on the home page, finding the pending form was very quick and easy.
 
 5. Participant 5:
 This participant was able to jump from housing straight to the meal plan successfully in the first task. In the second task this participant was also able to complete it quickly and as efficiently as we intended. In the final task the participant was able to find the form quickly, but got confused on whether he could click on the form in the warning or just in the list of links.
