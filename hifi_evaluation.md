@@ -69,9 +69,8 @@ Here are the graphical results for our evaluation form that the participants com
 ![Evaluation Graphs](hw5graphs.png)
 
 #### Conclusion and Takeaways
+The usability of our prototype increased from our low fidelity prototype to our high fidelity prototype. We were able to pinpoint more specific errors with the user flow on this round of testing, due to the prototype being more advances. Some issues we would fix if we were to continue this project would be:
+1. The user flow to edit the 21-22 housing and dining application automatically opened the housing application, and some of our participants missed the 'meal plan' tab at first glance. We would change this to match the 22-23 begin application flow, where the landing page does not default to a specific application, and the users can choose either housing or dining.
+2. There appeared to be issues with the save and exit buttons, some of the participants selected this between housing and dining applications in order to save, but then they just had to go back into the application later. A way to fix this would be to just have a 'save and continue' and a 'save' button, and then an 'x' to exit in the top, which should limit accidental exiting.
 
-note - changed tasks after renee tested because theyll work better
-ideas for things to change 
-1. returning users to housing and dining automatically opened housing, maybe have it on the application tab so they notice that they can select either housing or dining -- eliminates the issue where they left that page after cancelling housing and then had to go back to same page for meal plan
-2. Save and exit and save and continue could be confusing. maybe need to go back and just have a save button and a continue button, with a popup when you leave to go to mealplan from housing. maybe an x in the corner so its not as easy to just exit out.
-3. modify and cancel seems to be less confusing now that housing and dining are separated... I dont think the separation is causing confusion, just the exit button. Also the fact that its not 'fully' functional as a website
+Some issues with confusion had to do with the prototype software itself, because not all the buttons were fully interactive. The separation of housing and dining that we added for the hifi prototype eliminated the modify and cancel confusion, and the main issues were with confusion on what was clickable or not. From here, we would continue to analyze these small issues to make our redesign as effective as poosible.
