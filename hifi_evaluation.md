@@ -16,7 +16,7 @@ Both the consent form and script are based on the consent form/initial script te
 #### Consent Form
 The consent form can he found here: *[Consent Form PDF](consent_form.pdf)*
 
-All participants had to sign before conducting the test, because will be sharing the recording of their test.
+All participants had to sign before conducting the test, because we will be sharing the recording of their test.
 
 #### Initial Script
 When we begin the test, here is the script to be followed to ensure all participants begin with the same information. This was done before the recording was started, because the consent form was signed after this script:
