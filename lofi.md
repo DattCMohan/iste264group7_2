@@ -17,6 +17,6 @@ Our group focused on the layout and navigation of the homepage, and through the 
 Example of improvements on the User Flow<br>
 Here is the old userflow for housing options compared to our improved version<br>
 Old:<br>
-![Old Housing Userflow](https://emmathomas36.github.io/iste264group7/old_home.PNG)
+![Old Housing Userflow](https://dattcmohan.github.io/iste264group7_2/old_home.PNG)
 New<br>
-![New Housing Userflow](https://emmathomas36.github.io/iste264group7/new_home.PNG)
+![New Housing Userflow](https://dattcmohan.github.io/iste264group7_2/new_home.PNG)
