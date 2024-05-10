@@ -48,7 +48,7 @@ Here is the old userflow for housing options compared to our improved version<br
 Old:<br>
 ![Old Housing Userflow](https://dattcmohan.github.io/iste264group7_2/old_home.PNG)
 New<br>
-![New Housing Userflow](dattcmohan.github.io/iste264group7_2/new_home.PNG)
+![New Housing Userflow](https://dattcmohan.github.io/iste264group7_2/new_home.PNG)
 
 ### Stakeholders
 
@@ -86,15 +86,15 @@ We cannot prototype the actual login screen, as it is done by an outside authent
 
 ### Images and Examples of Some of the Main Design Problems
 Below is the sequence of screens to get to the login, users should not have to click "login" twice, or be greeted with a blank page.
-![login screen](https://emmathomas36.github.io/iste264group7/login.png)
+![login screen](https://dattcmohan.github.io/iste264group7_2/login.png)
 After clicking the first login, you get to this screen, where you must login again
-![login screen 2](https://emmathomas36.github.io/iste264group7/login2.png)
+![login screen 2](https://dattcmohan.github.io/iste264group7_2/login2.png)
 
 Here is an example of the empty space and poor layout of the home screen:
-![Home screen](https://emmathomas36.github.io/iste264group7/homescreen.png)
+![Home screen](https://dattcmohan.github.io/iste264group7_2/homescreen.png)
 
 Here is what happens when you click on your name in the menu. This also highlights the sparse navigation menu, and how you have to go home before going to another main page.
-![login screen](https://emmathomas36.github.io/iste264group7/menuscreen.png)
+![login screen](https://dattcmohan.github.io/iste264group7_2/menuscreen.png)
 After clicking your name, you are taken to this "Page not Found." This should be a direct link to home, or it should not be clickable.
-![login screen 2](https://emmathomas36.github.io/iste264group7/pagenotfound.png)
+![login screen 2](https://dattcmohan.github.io/iste264group7_2/pagenotfound.png)
 
